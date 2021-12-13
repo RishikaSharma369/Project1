@@ -1,0 +1,58 @@
+
+.background img{
+
+    width: 90%;
+    height: 600px;
+    position:relative;
+    left: 55px;
+}
+
+.heading
+{
+    top: 0;
+   position: absolute;
+   left: 40%;
+   font-family: 'Smooch', cursive;
+   font-size: 20px;
+}
+
+.jingel h1{
+    position: absolute;
+    font-family:'Shalimar', cursive;
+    color:tomato;
+    left:70%;
+    bottom: 70%;
+    
+}
+
+.para
+{
+    position: absolute;
+    left:60%;
+    bottom: 30%;
+    overflow-y: auto;
+    width: 320px;
+    height: 200px;
+    border: 2px solid black;
+    color: tomato;
+    padding: 20px;
+
+}
+
+.gif{
+    background: url(image/santa3.gif);
+    width: 400px;
+  height: 400px;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 10%;
+  bottom: 5%;
+}
+
+.music{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 63%;
+    bottom: 20%;
+}
